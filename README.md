@@ -2,7 +2,7 @@
 
 Atividade simples e responsiva de login e registro feito com HTML e CSS.
 
-##Resultados Finais
+### Resultados Finais
 <img src="assets/index.png" alt="Web Version"/>
 <img src="assets/registering.png" alt="Web Version"/>
 
